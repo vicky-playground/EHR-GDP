@@ -1,0 +1,73 @@
+{
+  "accrual_periodicity": "other",
+  "additional_limitations": "",
+  "citation": "",
+  "contact_email": "opendata@dhcs.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "http://www.dhcs.ca.gov/dataandstats/Pages/PublicReportingGuidelines.aspx",
+  "description": "The Medi-Cal Electronic Health Record (EHR) Incentive Program makes payments to eligible Medi-Cal providers. This dataset displays a list of Eligible Hospitals that have been paid Via the Medi-Cal Incentive Program and includes  National Provider Identifiers, payment dates, payment and program years of Medicaid eligible professionals (EPs) and eligible hospitals (EHs) that have successfully demonstrated Adopt, Implement, or Upgrade (A/I/U) and received a payment.",
+  "geo_coverage": "California",
+  "geographic_granularity": "location point",
+  "keywords": [
+    "dhcs",
+    "ehr",
+    "electronic health records",
+    "eligible hospitals",
+    "incentive payments"
+  ],
+  "limitations": "Limitations",
+  "name": "electronic-health-record-ehr-incentive-program-payments-to-eligible-hospitals",
+  "program_web_page": "None",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "Please click on the link above to view. The Medi-Cal Electronic Health Record (EHR) Incentive Program makes payments to eligible Medi-Cal providers. This dataset displays a list of Eligible Hospitals that have been paid Via the Medi-Cal Incentive Program and includes  National Provider Identifiers, payment dates, payment and program years of Medicaid eligible professionals (EPs) and eligible hospitals (EHs) that have successfully demonstrated Adopt, Implement, or Upgrade (A/I/U) and received a payment.",
+      "format": "CSV",
+      "hash": "939569d3190e89d3a510b15ec8b767ca",
+      "name": "electronic-health-record-ehr-incentive-program-payments-to-eligible-hospitals-csv",
+      "path": "electronic-health-record-ehr-incentive-program-payments-to-eligible-hospitals-.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/electronic-health-record-ehr-incentive-program-payments-to-eligible-hospitals3/resource/26c4dac8-93e0-4465-8881-49bd5d11b811",
+          "title": "Electronic Health Record (EHR) Incentive Program Payments to Eligible Hospitals (CSV)"
+        }
+      ],
+      "title": "Electronic Health Record (EHR) Incentive Program Payments to Eligible Hospitals (CSV)"
+    },
+    {
+      "description": "The Medi-Cal Electronic Health Record (EHR) Incentive Program makes payments to eligible Medi-Cal providers. This dataset displays a list of Eligible Hospitals that have been paid Via the Medi-Cal Incentive Program and includes  National Provider Identifiers, payment dates, payment and program years of Medicaid eligible professionals (EPs) and eligible hospitals (EHs) that have successfully demonstrated Adopt, Implement, or Upgrade (A/I/U) and received a payment.",
+      "format": "DOCX",
+      "name": "data-dictionary-ohit-ehr-hospital",
+      "path": "data-dictionary-ohit-ehr-hospital.docx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/579fbb1f-0078-4fe3-9bc8-c09d91ad3589/resource/aca2b3dd-83af-4f7b-b0b9-734b7856fdff/download/data-dictionary-ohit-ehr-hospital-2018.docx",
+          "title": "data-dictionary-ohit-ehr-hospital"
+        }
+      ],
+      "title": "data-dictionary-ohit-ehr-hospital"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Enterprise Data and Information Management / Health Information Management Division",
+      "web": "http://www.dhcs.ca.gov/provgovpart/Pages/EHR_Incentive_Data_and_Reports.aspx"
+    }
+  ],
+  "temporal_coverage": "As of 3/25/20",
+  "title": "Electronic Health Record (EHR) Incentive Program Payments to Eligible Hospitals"
+}
