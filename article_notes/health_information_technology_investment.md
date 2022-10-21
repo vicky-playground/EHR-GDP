@@ -19,7 +19,16 @@
 ### Abstract
 - Examins the implications of digital health on access to healthcare in Bangladesh. The paper uses surveys from 854 hoursholds, 20 focus groups.
 - The results found 90.3% of households own electronic devices, but only 7.2% uses them to access health information serivces. Among them, middle-aged, female, less educated, and poorer  people are less likely to access healthcare.
+<<<<<<< HEAD
+### Introduction
+- There is an assumption that digital health contributes to equitable access to health care, especially in the LMICs. However, there is evidence of "digital divide" separating the socio-demographic.
+### Conclusion
+- Respondents avoid mHealth initiatives because of lack of human resources and technological capabilities.
+- Access is at the intersection of social determinants. There is the lack of social acknowledgement for need to access healthcare, people may lack the language sophitication to access the software, etc.
+- Some social groups will have more access to healthcare because of better access to health, technology, and general literacy.
+=======
 
+>>>>>>> 3b2835a6b52fc7153c6d9fe1f2ed6dbdd5f7ffa0
 
 ## Federal Investment in Health Information Technology: How to Motivate It?
 1. Healthcare market failures include inefficient standard making, problems with coordination among local providers to optimize care, and inability to measure quality accurately.
@@ -30,6 +39,19 @@
 ### Conclusion
 - Creative and educated workforce perform more R&D contributes to higher levels of technology utilization.
 
+<<<<<<< HEAD
+## Health literacy, health inequality and a just healthcare system
+### Abstract
+- Poor health literacy should be understood as a fundamental injustice of the healthcare system.
+- Proposals:
+	1. universial precautions that presume limited health literacy for all
+	2. Expanded use of technology to support commounication
+	3. clinincal incentives to account for limited health literacy
+
+### Introduction
+
+=======
+>>>>>>> 3b2835a6b52fc7153c6d9fe1f2ed6dbdd5f7ffa0
 
 ## The role of information and communication technologies in socioeconomic development: towards a multi-dimensional framework
 - Conceptual framework that considers 4 dimensions that impact socioeconomic development: policy, business, technology, and society.

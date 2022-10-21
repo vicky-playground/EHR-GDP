@@ -8,7 +8,14 @@
 ### Conclusion
 12. HIT expenses are directly and positively associated with hospital ROA and productivity.
 
+<<<<<<< HEAD
+## Do health information technology investments impact hospital financial performance and productivity?
+### Abstract
+- Health information technology expenses are positively associated with hsptials' return on assets and productivity.
+- Intermediate business processes are associated  with positive financial performance and productivity following the implementation.
+=======
 
+>>>>>>> 3b2835a6b52fc7153c6d9fe1f2ed6dbdd5f7ffa0
 
 ## Effects of health information technology on patient outcomes:  a systematic review
 1. 36% studies found health IT had benefits on patient safety outcomes, 62% showed it was not significant, and 1% said it had determimental effects.
