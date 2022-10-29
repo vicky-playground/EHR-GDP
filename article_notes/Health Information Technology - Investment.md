@@ -103,10 +103,57 @@
 - Implementations of health information technologies are difficult due to inter-related technical, social, and organisational factors.
 - Conducted systematic review of empirical literature between 1997 and 2010. Found dimensions are inter-related, requiring balancing of strategic implementation decisions. Organizational issues are crucially important, but are yet to receive attention. 
 ### Introduction
-
+- The field of studying HIT integration encompasses human factors, human-computer interface, and behaviors.
+- Bodies of knowledge surrounding organizational issues in HIT innovation:
+	- **Human factors/system ergonomics** -- the science of understanding human capability and their applications to design.
+	- **Organizational/occupational/social psychology** -- application of psychological theories to workplace issues.
+	- **Management and organizational change** -- identify how to change from current state to desired future state. Usually focused on identifying barriers and facilitators.
+	- **Information systems** -- the use of IT in organizations and society. Often interfaces with World Systems Theory.
+- Theoretical approaches conceptualizing interaction between technology, humans, and organizations:
+	- **Diffusion of innovations** -- how innovation spread across organizations over time.
+	- **Normalization process theory** -- how complex interventions are incorporated into day-to-day work.
+	- **Sensemaking** -- individuals try to make sense of status quo. Assumes organizations are "talked into action".
+	- **Social shaping of technology** -- studies the macro-environmental factors influencing technology and their implementation.
+	- **Socio-technical change** -- conceptualizes changes as non-linear, unpredictable, and context-dependent.
+	- **Technology acceptance model** -- individual adoption is determined by attitude, perceived usefulness, and perceived ease of use.
+	- **The notion of fit** -- how social, technological, and work processes factor into isolation.
+### Results
+#### Paper summaries
+**Alexander and Staggers 2009** -- System effectiveness depends on: simple to use interface, include users in design and development, effective navigation for existing workflows, impact on system workload, customization, flexibility, and ease of learning.
+**Boonstra and Broekhuis 2010**
+- Identified the following inter-related categories:
+	- _Financial_ -- the cost of investment and ROI.
+	- _Technical_ -- the skills needed to implement and use the system.
+	- _Time_ -- disruption to existing workflow.
+	- _Psychological_ -- does the new system improve patient outcomes and professional control.
+	- _Social_ -- relationship with other parties and support from the government.
+	- _Legal_ -- data may be illegally accessed, compliance with regulations.
+	- _Organizational_ -- does the technology scale, and benefit which type of organization.
+	- _Change process_ -- organizational culture needs to be supportive with proper incentives.
+**Gagnon et al. 2010a** -- use clinical information retrieval technologies for clinical intervention. The study found mixed impact, as 3 indicated positive impact and 4 did not show significant impact.
+**Gagnon et al. 2010b** -- barriers and facilitators to HIT adoption. Found inter-related technological, human, and organizational factors.
+- Facilitators -- benefits, ease of use, compatibility, support, user involvement.
+- Barriers -- design, technical concerns, time, lack of compatibility with existing practices, validity, cost, compliance, patient interaction, social attitude, change in tasks, and resources.
+**Greenhalgh et al. 2004** -- divided research traditions into _early diffusion_, _later diffusion_, and _management literature_. The framework suggest several key aspects to adoption:
+- Nature of the innovations
+- Adoption strategies
+- Role of effective communications in introducing innovations
+- The importance of organizational and environmental context
+- How implementation is done effectively and change sustained
+- The role of external agencies
+**Gruber et al. 2009** -- Categorized HIT implementation based on system, user, management, and patient outcomes.
+- System outcomes -- user-friendly, performance, functionality, integration.
+- User outcomes -- user acceptance of the system and whether it improves patient care.
+- Management outcomes -- data for secondary users and facilitate decision-making.
+- Patient outcomes -- Satisfaction with the provider.
+#### Technical Characteristics
+- The majority of end users are not adverse to technology, but are adverse to systems they perceive as interfering with their values. The new technology should be at least as fast as the previous system.
+### Conclusions
+- Previous experiences were difficult to generalize. However, HIT agenda is coming to the forefront due to consensus within the field that technology advancement does not occur within a vacuum. 
 
 ## The role of information and communication technologies in socioeconomic development: towards a multi-dimensional framework
-- Conceptual framework that considers 4 dimensions that impact socioeconomic development: policy, business, technology, and society.
+### Abstract
+- Conceptual framework that considers 4 dimensions that impact socioeconomic development: policy, business, technology, and society. 
 
 ## The socioeconomic aspects of information technology for health care with emphasis on radiology
 ### Introduction
