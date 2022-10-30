@@ -146,6 +146,24 @@
 - User outcomes -- user acceptance of the system and whether it improves patient care.
 - Management outcomes -- data for secondary users and facilitate decision-making.
 - Patient outcomes -- Satisfaction with the provider.
+**Gurses and Xiao 2006** -- divided tools into _patient-centric information tools_, _decision-support tools_, and _process-oriented tools_. Suggest use process-oriented tools to improve impact. Important technical features: summary & display up-to-date information, multi-user support, mobile technology, checklists, informal communication.
+**Keshavjee et al. 2006** -- high incident failure in EMR implementation. Technology is implemented over certain period of time, strong leadership is important, implementation is a dynamic and evolving learning process.
+- Factors divided into _people_, _process_, and _technology_. Divides implementation into _pre-implementation_, _implementation_, and _post-implementation_.
+- Factors important in pre-implementation phase: governance (senior management), leadership (PMs), stakeholders (organizational readiness for change), software (meets organization requirement), integration (integrates with existing systems), usability.
+- Factors important during implementation phase: fit with clinical workflows, training, working relationship with the supplier, support, communication and feedback, address confidentiality & security.
+- Factors important in post-implementation phase: technical support, adoption incentives.
+**Ludwick and Doucette 2009** -- identify lessons from EMR implementation.
+- Social-technical factors were most important for successful implementation.
+- Barriers: perceived negative impact on safety, privacy, professional relationship, implementation time, and costs. User resistance if they perceive the change is imposed.
+- Mitigating factors: good project management and leadership.
+- Experience (e.g. with computers, vendor management), usability, and training are important for implementation success.
+- Cost concerns common to adoption.
+**Mair et al. 2007** -- technology design, professional interactions, and organizational factors are important.
+- Key barriers: adequate information management, inadequate inter-agency cooperation, intrusive technology, cost, lack of testing.
+- Key facilitators: positive cooperation, flexibility, ease of use, organizational willingness, ability to order information.
+**Robert et al. 2010** -- Review of organizational factors and processes affecting HIT. Importance of: interaction between groups in organizations, organizational history, power relationships, professionalism, influence of social groups, key individuals, between organizations, and the environment.
+**Yarbrough and Smith 2007** -- resistance by users is often the greatest barrier to EMR implementation. Other barriers include lack of empirical evidence of effectiveness, financial incentives, disruptions to existing practices, organizational support, and technical features (e.g. reliability).
+**Yusof et al. 2007** -- critical adoption factors: technology, human, organization information, organization environment. Hierarchical structures are detrimental to implementation.
 #### Technical Characteristics
 - The majority of end users are not adverse to technology, but are adverse to systems they perceive as interfering with their values. The new technology should be at least as fast as the previous system.
 ### Conclusions

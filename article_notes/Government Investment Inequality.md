@@ -1,6 +1,6 @@
 ## Infrastructure and inequality
 ### Abstract
-- Public investment generate wealth inequality. However, it is dependent on finance policies. There also tradeoffs, with some investments not contributing to inequality in the short run but does in the long run.
+- Public investment generate wealth inequality. However, it is dependent on finance policies. There also trade-offs, with some investments not contributing to inequality in the short run but does in the long run.
 - Dependencies:
 	- Externalities  impinges on allocation decisions
 	- Financing policies
@@ -40,3 +40,34 @@
 - Second Model:
 	- Negative relationship between inequality and growth.
 	- Government investment impact on equality depends on factor substitutability  embodied in the production function.
+## The Effect of the Size and the Mix of Public Spending on Growth and Inequality
+### Abstract
+- Effects of the size and composition of public spending on long-term growth and inequality. Certain items (public investment & education) boost potential growth, while others (pensions & public subsidies) lower potential growth. Large governments decrease growth.
+### Introduction and main findings
+- OECD governments spend on average 40% of their GDP on provisioning public goods, services, and transfers. The spending has 2 effects on income:
+	- direct impact from the transfers
+	- indirect impact due to future growth
+- Main findings:
+	- Larger governments are associated with lower long-term growth and slows down on productivity catchup.
+	- The negative effects of large governments can be offset if the countries have well-functioning governments and spending decentralization.
+	- Effective governments promotes equity with no adverse effects on growth. Governments tend to redistribute more.
+	- Improving government effectiveness and reduce governments can increase growth and reduce inequality. However, smaller governments redistribute less.
+- Spending structure
+	- Invest in education and skills yields the largest gains.
+	- Increase investment and reduce other forms of spending increases convergence of income and "rising tide lifts all boats".
+	- Growth gains from investment gains decrease at high public capital stock due to diminishing returns.
+	- Reducing pension spending yields sizable growth gains, but entails trade-offs between different segments of society.
+	- Cutting public subsidies boosts growth. However, this delivers large disposable incomes for the rich and no gains for the poor.
+	- Spending on family benefits and child care reduces disposable income inequality.
+### Conclusion
+- The paper emphasize shift to spend on investment and associated with higher growth and benefit for all. Reform of public spending effect is broad and large.
+- Government effectiveness is crucial for inclusive  growth. The long-term impact of spending reform depends on the design and implementation.
+- Public spending reforms that yield disproportionate benefits to the rich can be complemented by other re-distributive policies.
+## The Re-distributive Impact of Government Spending on Education and Health: Evidence from Thirteen Developing Countries in the Commitment to Equity Project
+### Abstract
+- Analyzes fiscal policy and its link with inequality. Fiscal  policy affect household consumption directly through taxes and transfers, and indirectly through incentives and public goods provision.
+- Growth and equity are not at odds. With appropriate policies, countries can achieve more economic growth while maintaining equity.
+### Introduction
+- Measurement of the value of government  services is the cost of provision. This is not a perfect measurement.
+- Government spending progressivity and pro-poor is determined by the concentration coefficient. Spending is _regressive_ when the coefficient is higher than market-income Gini. Spending is _progressive_ when the coefficient is lower than market-income Gini. Spending is pro-poor  when the coefficient is both lower than that market-income Gini and also has a negative value (the per-capita spending is higher the poorer the individual).
+- 
