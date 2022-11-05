@@ -94,9 +94,7 @@
 	- Provide training materials
 - The literature suggest some ways may be successful. However, the success of these strategies are uncertain and more more studies are needed.
 
-## Meaningful Use: Electronic Health Record (EHR) Incentive Programs
-- Physicians must use certified EHR technology (CEHRT) and demonstrate meaningful use through attestation.
-- CMS announced they will be lenient in 2017 due to delays in publishing guidelines.
+
 
 ## Organisational issues in the implementation and adoption of health information technology innovations: an interpretative review
 ### Abstract

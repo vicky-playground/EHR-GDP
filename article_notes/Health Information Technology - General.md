@@ -1,4 +1,7 @@
 ## Do health information technology investments impact hospital financial performance and productivity?
+### Abstract
+- Health information technology expenses are positively associated with hospitals' return on assets and productivity.
+- Intermediate business processes are associated  with positive financial performance and productivity following the implementation.
 ### Introduction
 1. Health information technology expenses are positively correlated with hospitals' return on assets and productivity.
 1. Additional benefits from intermediate processe are also generated from investment.
@@ -8,21 +11,36 @@
 ### Conclusion
 12. HIT expenses are directly and positively associated with hospital ROA and productivity.
 
-<<<<<<< HEAD
-## Do health information technology investments impact hospital financial performance and productivity?
-### Abstract
-- Health information technology expenses are positively associated with hospitals' return on assets and productivity.
-- Intermediate business processes are associated  with positive financial performance and productivity following the implementation.
-=======
-
->>>>>>> 3b2835a6b52fc7153c6d9fe1f2ed6dbdd5f7ffa0
-
 ## Effects of health information technology on patient outcomes:  a systematic review
 1. 36% studies found health IT had benefits on patient safety outcomes, 62% showed it was not significant, and 1% said it had detrimental effects.
 1. IT has been considered a potential mechanism to support clinical care. The Electronic Health Record (EHR) program has seen billions of dollars invested in it.
 1. Many previous systematic reviews focused on one specific health IT (_clinical decision support_, outpatient, inpatient, intensive care, pediatrics, geriatrics, antibiotic medications, anticoagulant therapy, lab testing, or treatment of hypertension, adverse drug events).
 18. Need to understand how IT is impacting patients.
 
+## The Efficacy of Health Information Technology in Supporting Health Equity for Black and Hispanic Patients with Chronic Diseases: Systematic Review
+### Abstract
+- Out  of 27 articles, 14  focused on African Americans, 4 on Hispanics, and 9 on both.
+- Most articles addressed 3/4 self-management behaviors: medication, physical activity, and died. Only 4 focused on follow-up appointments.
+- All articles focused  on HIT for use at home, only 7% included use in hospitals.
+### Introduction
+- Chronic disease self-management is challenging because the treatment regimens demand self-control and familial support.
+- African-American and Hispanic individuals are significantly less likely to own computers and have stable internet access. Although they own mobile devices at roughly the same rate, they are more likely to cancel their plans because of cost.
+### Result
+#### Health Outcomes Described in the Included Articles
+- **Heitkemper et al.** used website and SMS for diabetes management. Participation was low because the participants rarely used the internet to search for health information.
+- **Kline et al.** used intervention tailored specifically to the Hispanic population. Specific clinical outcomes were not reported.
+- Studies on Hypertension found no statistical significance. However, others reported statistical significance in finding medicine adherernce.
+- **Finkelstein and Wood** used Nintendo Wii to remind participants about heart failures. Participants reported high level of acceptance of using the technology.
+### Discussions
+#### Principal Findings
+- The risk of misuse of HIT is higher in home settings. Developers should consider the risk of misuse and number of users in home care settings.
+- Persistent disparities in chronic disease outcomes are because of the lack of large-scale HIT enabled  interventions that support self-management recommendations and impact on outcomes.
+#### Conclusions
+- Continued investigation has yielded little regarding health outcomes of HIT on Black and Hispanic populations.
+- Individuals must access, assess, and organize health information.
+
+## The Impact of Health information Technology on Disparity of Process of Care
+- 
 ## Information Technology and Productivity: Evidence from Country-Level Data
 - Estimate inter-country production function relating IT and non-IT inputs to GDP output. The panel data from 36 countries between 1985-1993 showed that returns on IT investment in developed countries is positive and significant, while returns on IT investment in developing countries are not statistically significant.
 

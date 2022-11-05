@@ -36,12 +36,17 @@
 		- Medicare = # of Acute Care inpatient bed days for beneficiaries where payments may be made under Part A + # of acute care inpatient Bed Days for MA Beneficiaries
 		- Total = # of total acute care inpatient days
 		- Charges = Total charge minus charge for charity care/total charges
+	
+## Meaningful Use: Electronic Health Record (EHR) Incentive Programs
+- Physicians must use certified EHR technology (CEHRT) and demonstrate meaningful use through attestation.
+- CMS announced they will be lenient in 2017 due to delays in publishing guidelines.
 
 ## Meaningful Use and the Shift to Merit-based Payment System
 - The EHR Incentive Program is commonly referred to as meaningful use. It will become part of the Merit-Based Incentive Payment System (MIPS), which is part of MACRA.
 ![[Pasted image 20221026233024.png]]
 
 ## Promoting Interoperability Program (formerly EHR Incentive Program)
+
 
 ## 2022 Medicare Promoting Interoperability Program Requirements
 - EHR reporting period is a minimum of any continuous, self-selected 90-day period.
